@@ -10,7 +10,7 @@
 <key>DNSProtocol</key>
 <string>HTTPS</string>
 <key>ServerURL</key>
-<string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
+<string>https://dns.nextdns.io/d98666</string>
 </dict>
 <key>OnDemandRules</key>
 <array>
@@ -38,7 +38,7 @@
 <key>DNSProtocol</key>
 <string>HTTPS</string>
 <key>ServerURL</key>
-<string>https://vevrl9air2.cloudflare-gateway.com/dns-query</string>
+<string>https://dns.nextdns.io/d98666</string>
 <key>SupplementalMatchDomains</key>
 <array>
 <string>ocsp.apple.com</string>
