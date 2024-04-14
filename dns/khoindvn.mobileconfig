@@ -20,7 +20,7 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Chặn thu hồi ( Có chặn ADS ) ✅</string>
+<string>block ads ( ads ) ✅</string>
 <key>PayloadIdentifier</key>
 <string>vevrl9air2.cloudflare-gateway.com.profile</string>
 <key>PayloadOrganization</key>
@@ -64,7 +64,7 @@
 </dict>
 </array>
 <key>PayloadDisplayName</key>
-<string>Chặn thu hồi ( Không chặn ADS ) ✅</string>
+<string>Rebin Co ltd ✅</string>
 <key>PayloadIdentifier</key>
 <string>khoindvn.bio.link.profile</string>
 <key>PayloadOrganization</key>
@@ -78,9 +78,9 @@
 </dict>
 </array>
 <key>PayloadDescription</key>
-<string>Bug fix</string>
+<string>snap: rebin.200</string>
 <key>PayloadDisplayName</key>
-<string>DNS Khơindvn</string>
+<string>Rebin Co ltd</string>
 <key>PayloadIdentifier</key>
 <string>khoindvn.cloudflare.warp.com.profile</string>
 <key>PayloadScope</key>
