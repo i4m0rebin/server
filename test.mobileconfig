@@ -10,7 +10,7 @@
 <key>DNSProtocol</key>
 <string>HTTPS</string>
 <key>ServerURL</key>
-<string>https://d98666.dns.nextdns.io/</string>
+<string>https://dns.nextdns.io/d98666</string>
 </dict>
 <key>OnDemandRules</key>
 <array>
@@ -22,13 +22,13 @@
 <key>PayloadDisplayName</key>
 <string>block ads ( ads ) ✅</string>
 <key>PayloadIdentifier</key>
-<string>d98666.dns.nextdns.io.profile</string>
+<string>dns.nextdns.io/d98666.profile</string>
 <key>PayloadOrganization</key>
 <string>Blocking Cert Revocation Yes Block Ads</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
-<string>d98666.dns.nextdns.io/</string>
+<string>dns.nextdns.io/d98666/</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 </dict>
@@ -38,7 +38,7 @@
 <key>DNSProtocol</key>
 <string>HTTPS</string>
 <key>ServerURL</key>
-<string>https://d98666.dns.nextdns.io</string>
+<string>https://dns.nextdns.io/d98666</string>
 <key>SupplementalMatchDomains</key>
 <array>
 <string>ocsp.apple.com</string>
@@ -82,7 +82,7 @@
 <key>PayloadDisplayName</key>
 <string>Rebin Co ltd</string>
 <key>PayloadIdentifier</key>
-<string>khoindvn.cloudflare.warp.com.profile</string>
+<string>dns.nextdns.io/d98666.profile</string>
 <key>PayloadScope</key>
 <string>User</string>
 <key>PayloadType</key>
